@@ -1,6 +1,7 @@
 # A Burgershot for QBCore Framework
 
-Preview *outdated* : https://www.youtube.com/watch?v=9sLa6d6hUXY&t=42s
+Show Case : ![Uploading image.png…]()
+
 
 
 ## Please note

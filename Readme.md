@@ -10,7 +10,7 @@ https://cdn.discordapp.com/attachments/1030153055947206747/1164845189412704297/N
 
 - Please make sure u use the latest dependencies aswell as core for this in order to work.
 
-- This Job has been tested on the latest build as of 12/03/2023.
+- This Job has been tested on the latest build as of 2023/21/10.
 
 
 ## Dependencies :

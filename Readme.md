@@ -25,7 +25,7 @@ qb-input - https://github.com/qbcore-framework/qb-input
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
-Map - https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps
+Map - [https://www.gta5-mods.com/maps/burgershot-remastered-gta-v-interior-mod-gtadps](https://www.gta5-mods.com/maps/mlo-burgershot-2023-add-on-sp-fivem)
 
 Car - https://www.gta5-mods.com/paintjobs/vapid-speedo-express-burgershot-livery
 
